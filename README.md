@@ -14,27 +14,27 @@ Since each position has different requirements for their skillset, I have outlin
 
 ### Goalkeepers:
 
-  Clean Sheets: The number of matches in which a goalkeeper did not concede any goals.
-  Save Percentage: The percentage of shots on target that the goalkeeper saves.
+  - Clean Sheets: The number of matches in which a goalkeeper did not concede any goals.
+  - Save Percentage: The percentage of shots on target that the goalkeeper saves.
   
 ### Defenders:
 
-  Tackles Won: The number of successful tackles made by a defender.
-  Interceptions: The number of times a defender successfully intercepts a pass.
-  Clearances: The number of times a defender clears the ball away from dangerous areas.
-  Successful Passes: The accuracy and number of completed passes by a defender.
+  - Tackles Won: The number of successful tackles made by a defender.
+  - Interceptions: The number of times a defender successfully intercepts a pass.
+  - Clearances: The number of times a defender clears the ball away from dangerous areas.
+  = Successful Passes: The accuracy and number of completed passes by a defender.
   
 ### Midfielders:
 
-  Pass Accuracy: The percentage of successful passes made by a midfielder.
-  Key Passes: The number of passes that directly lead to a goal-scoring opportunity.
-  Successful Dribbles: The number of successful dribbles past opponents.
-  Goals and Assists: The number of goals and assists contributed by a midfielder.
+  - Pass Accuracy: The percentage of successful passes made by a midfielder.
+  - Key Passes: The number of passes that directly lead to a goal-scoring opportunity.
+  - Successful Dribbles: The number of successful dribbles past opponents.
+  - Goals and Assists: The number of goals and assists contributed by a midfielder.
   
 ### Forwards:
 
-  Goals Scored: The number of goals scored by a forward.
-  Assists: The number of goals directly set up by a forward.
-  Shots on Target: The number of shots by a forward that are on target.
-  Conversion Rate: The percentage of shots that result in goals.
+  - Goals Scored: The number of goals scored by a forward.
+  - Assists: The number of goals directly set up by a forward.
+  - Shots on Target: The number of shots by a forward that are on target.
+  - Conversion Rate: The percentage of shots that result in goals.
 
