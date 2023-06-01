@@ -12,26 +12,26 @@ The plan is to use a web scraper to download relevant player data from https://f
 
 Since each position has different requirements for their skillset, I have outlined the key performance indicators for each position as follows:
 
-Goalkeepers:
+### Goalkeepers:
 
   Clean Sheets: The number of matches in which a goalkeeper did not concede any goals.
   Save Percentage: The percentage of shots on target that the goalkeeper saves.
   
-Defenders:
+### Defenders:
 
   Tackles Won: The number of successful tackles made by a defender.
   Interceptions: The number of times a defender successfully intercepts a pass.
   Clearances: The number of times a defender clears the ball away from dangerous areas.
   Successful Passes: The accuracy and number of completed passes by a defender.
   
-Midfielders:
+### Midfielders:
 
   Pass Accuracy: The percentage of successful passes made by a midfielder.
   Key Passes: The number of passes that directly lead to a goal-scoring opportunity.
   Successful Dribbles: The number of successful dribbles past opponents.
   Goals and Assists: The number of goals and assists contributed by a midfielder.
   
-Forwards:
+### Forwards:
 
   Goals Scored: The number of goals scored by a forward.
   Assists: The number of goals directly set up by a forward.
