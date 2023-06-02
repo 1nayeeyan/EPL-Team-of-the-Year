@@ -38,3 +38,4 @@ Since each position has different requirements for their skillset, I have outlin
   - Shots on Target: The number of shots by a forward that are on target.
   - Conversion Rate: The percentage of shots that result in goals.
 
+We are also going to filter based on the criteria that a player must have played at least 1500 minutes in the entirety of the season.
