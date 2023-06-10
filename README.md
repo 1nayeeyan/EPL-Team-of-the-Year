@@ -39,3 +39,9 @@ Since each position has different requirements for their skillset, I have outlin
   - Conversion Rate: The percentage of shots that result in goals.
 
 We are also going to filter based on the criteria that a player must have played at least 1500 minutes in the entirety of the season.
+
+## Scraping/Cleaning
+
+https://github.com/1nayeeyan/EPL-Team-of-the-Year/blob/main/get-player-data.ipynb
+
+## Visualilzation
