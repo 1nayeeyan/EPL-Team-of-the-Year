@@ -22,7 +22,7 @@ Since each position has different requirements for their skillset, I have outlin
   - Tackles Won: The number of successful tackles made by a defender.
   - Interceptions: The number of times a defender successfully intercepts a pass.
   - Clearances: The number of times a defender clears the ball away from dangerous areas.
-  = Successful Passes: The accuracy and number of completed passes by a defender.
+  - Successful Passes: The accuracy and number of completed passes by a defender.
   
 ### Midfielders:
 
