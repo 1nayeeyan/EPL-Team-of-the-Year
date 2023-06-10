@@ -6,7 +6,7 @@ The purpose of this analysis project is to determine which players qualify to be
 
 ## Procedure
 
-The plan is to use a web scraper to download relevant player data from https://fbref.com/en/comps/9/Premier-League-Stats, and other indexes of the site, clean, conduct analysis and then visualize our findings.
+The plan is to use a web scraper to download relevant player data from https://fbref.com/en/comps/9/Premier-League-Stats, and other indexes of the site, clean, conduct analysis and then visualize my findings.
 
 ## Criteria
 
