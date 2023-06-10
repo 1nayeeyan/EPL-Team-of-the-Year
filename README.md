@@ -44,4 +44,9 @@ We are also going to filter based on the criteria that a player must have played
 
 https://github.com/1nayeeyan/EPL-Team-of-the-Year/blob/main/get-player-data.ipynb
 
+I ended up having to use Selenium, on top of BeautifulSoup due to the webpage's dynamic loading style.
+
 ## Visualilzation
+
+https://github.com/1nayeeyan/EPL-Team-of-the-Year/blob/main/TOTY_EPL.pbix
+
